@@ -62,10 +62,10 @@ FixMate offers a comprehensive set of features:
 - **AndroidX Libraries**: AppCompat, Material Components, RecyclerView, ViewPager2, SwipeRefreshLayout, Biometric, Lifecycle
 
 ### Back-end
-- *(Specify your backend, e.g., Node.js with Express)*
+- Node.js with Express ( Hosted on Ubuntu VPS(AWS) )
 
 ### Database
-- *(Specify your database, e.g., Firebase Firestore, MongoDB, etc.)*
+- Firebase, Postgresql, Cloudinary
 
 ### APIs & Libraries
 - **Retrofit2** – Type-safe HTTP client
